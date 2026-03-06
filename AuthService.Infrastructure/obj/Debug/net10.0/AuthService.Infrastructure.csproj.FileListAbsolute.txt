@@ -1,0 +1,17 @@
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/bin/Debug/net10.0/AuthService.Infrastructure.deps.json
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/bin/Debug/net10.0/AuthService.Infrastructure.dll
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/bin/Debug/net10.0/AuthService.Infrastructure.pdb
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/bin/Debug/net10.0/AuthService.Application.dll
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/bin/Debug/net10.0/AuthService.Domain.dll
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/bin/Debug/net10.0/AuthService.Domain.pdb
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/bin/Debug/net10.0/AuthService.Application.pdb
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/AuthService.Infrastructure.csproj.AssemblyReference.cache
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/AuthService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/AuthService.Infrastructure.AssemblyInfoInputs.cache
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/AuthService.Infrastructure.AssemblyInfo.cs
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/AuthService.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/AuthServ.03063B79.Up2Date
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/AuthService.Infrastructure.dll
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/refint/AuthService.Infrastructure.dll
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/AuthService.Infrastructure.pdb
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/ref/AuthService.Infrastructure.dll

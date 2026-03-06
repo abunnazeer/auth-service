@@ -1,0 +1,15 @@
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/bin/Debug/net10.0/AuthService.Application.deps.json
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/bin/Debug/net10.0/AuthService.Application.dll
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/bin/Debug/net10.0/AuthService.Application.pdb
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/bin/Debug/net10.0/AuthService.Domain.dll
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/bin/Debug/net10.0/AuthService.Domain.pdb
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/AuthService.Application.csproj.AssemblyReference.cache
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/AuthService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/AuthService.Application.AssemblyInfoInputs.cache
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/AuthService.Application.AssemblyInfo.cs
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/AuthService.Application.csproj.CoreCompileInputs.cache
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/AuthServ.67992DEE.Up2Date
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/AuthService.Application.dll
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/refint/AuthService.Application.dll
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/AuthService.Application.pdb
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/ref/AuthService.Application.dll
