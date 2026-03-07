@@ -13,3 +13,4 @@
 /Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/refint/AuthService.Application.dll
 /Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/AuthService.Application.pdb
 /Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/ref/AuthService.Application.dll
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Application/obj/Debug/net10.0/AuthService.Application.sourcelink.json

@@ -15,3 +15,4 @@
 /Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/refint/AuthService.Infrastructure.dll
 /Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/AuthService.Infrastructure.pdb
 /Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/ref/AuthService.Infrastructure.dll
+/Users/beenai/Desktop/csharp-projects/auth-service/AuthService.Infrastructure/obj/Debug/net10.0/AuthService.Infrastructure.sourcelink.json
