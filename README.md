@@ -116,7 +116,7 @@ Fields include:
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AuthService.git
+git clone https://github.com/abunnazeer/auth-service.git
 cd AuthService
 ```
 
